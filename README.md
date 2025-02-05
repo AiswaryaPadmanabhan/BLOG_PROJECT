@@ -17,6 +17,7 @@ Before running this project, you need to have the following installed:
 - Django 3.x+
 - pip
 - PostgreSQL (or any other database of your choice, see `DATABASES` configuration in `settings.py`)
+- 
 
 ## Installation
 
