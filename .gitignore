@@ -17,6 +17,7 @@ env/
 ENV/
 .ENV/
 blogenv/
+.env
 
 # Django migration files
 */migrations/*
